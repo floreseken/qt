@@ -6,9 +6,14 @@
             "severity": "high"
         },
         {
+            "title": "Project is using .NET version 4.6",
+            "description": "This NOT is okay!",
+            "severity": "medium"
+        },
+        {
             "title": "Project is using .NET version 5",
             "description": "This is okay!",
-            "severity": "low"
+            "severity": "none"
         }
     ]
 }
