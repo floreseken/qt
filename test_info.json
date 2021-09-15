@@ -1,0 +1,19 @@
+{
+    "vulnerabilities": [
+        {
+            "title": "Project test.csproj is using .NET version 5",
+            "description": "This is okay!",
+            "severity": "none"
+        },
+        {
+            "title": "Project test2.csproj is using .NET version 5",
+            "description": "This is okay!",
+            "severity": "none"
+        },
+        {
+            "title": "Project test3.csproj is using .NET version 5",
+            "description": "This is okay!",
+            "severity": "none"
+        }
+    ]
+}

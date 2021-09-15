@@ -1,0 +1,14 @@
+{
+    "vulnerabilities": [
+        {
+            "title": "Project X is using .NET framework 4.5",
+            "description": "Definitly NOT okay yo",
+            "severity": "high"
+        },
+        {
+            "title": "Project is using .NET version 4.6",
+            "description": "This is not okayish!",
+            "severity": "medium"
+        }
+    ]
+}
